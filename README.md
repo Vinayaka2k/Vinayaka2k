@@ -7,8 +7,8 @@ I'm a Final Year student in Computer Science and Engineering at PES University, 
 
 - 👀 I’m interested in anything and everything related to technology and Computer Science. 
 - 🌱 I'm currently focusing on contributing to open source and building some solid full stack projects that can be applied in the real world.
-- 💞️ I’m looking forward to collaborate on any Open Source software that excites me. I will be more than happy to contribute to any software that I use in my day to day life.
-- 📫 How to reach me :  You can reach out to me on LinkedIn or through mail. 
+- 💞️ I’m looking forward to collaborate on any Open Source software that excites me. 
+- 📫 How to reach me :  You can reach out to me through mail. 
 <br />
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Vinayaka2k)
