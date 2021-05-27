@@ -11,6 +11,7 @@ I'm a Final Year student in Computer Science and Engineering at PES University, 
 - 📫 How to reach me :  You can reach out to me on LinkedIn or through mail. 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Vinayaka2k)
+![](https://komarev.com/ghpvc/?username=Vinayaka2k)
 
 <!---
 Vinayaka2k/Vinayaka2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
