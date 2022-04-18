@@ -2,8 +2,7 @@
  I am Vinayaka Hegde**
 
 
-
-I'm working as  **Network Engineer at Apple Inc.** Ex-student in Computer Science and Engineering at PES University, Bangalore, India. I am a Developer with my interests lying in Full Stack Development, Cloud Computing, Machine Learning and Data Analytics.
+Student in Computer Science and Engineering at PES University, Bangalore, India. I am a Developer with my interests lying in Full Stack Development, Cloud Computing, Machine Learning and Data Analytics.
 
 - 👀 I’m interested in anything and everything related to technology and Computer Science. 
 - 🌱 I'm currently focusing on contributing to open source and building some solid full stack projects that can be applied in the real world.
