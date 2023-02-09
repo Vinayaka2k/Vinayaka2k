@@ -1,7 +1,7 @@
  **👋 Hello!
  I am Vinayaka Hegde**
 
-
+<!---
 Student in Computer Science and Engineering at PES University, Bangalore, India. I am a Developer with my interests lying in Full Stack Development, Cloud Computing, Machine Learning and Data Analytics.
 
 - 👀 I’m interested in anything and everything related to technology and Computer Science. 
@@ -14,7 +14,7 @@ Student in Computer Science and Engineering at PES University, Bangalore, India.
 <br />
 ![](https://komarev.com/ghpvc/?username=Vinayaka2k)
 
-<!---
+
 Vinayaka2k/Vinayaka2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
