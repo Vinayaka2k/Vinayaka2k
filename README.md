@@ -1,5 +1,5 @@
  **👋 Hello!
- I am Vinayaka Hegde....
+ I am Vinayaka Hegde....\n
 I Think, Therefore I Code**
 
 <!---
