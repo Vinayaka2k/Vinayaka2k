@@ -1,6 +1,7 @@
  **👋 Hello!
- I am Vinayaka Hegde....\n
-I Think, Therefore I Code**
+ I am Vinayaka Hegde**
+
+**I Think; Therefore, I Code**
 
 <!---
 Student in Computer Science and Engineering at PES University, Bangalore, India. I am a Developer with my interests lying in Full Stack Development, Cloud Computing, Machine Learning and Data Analytics.
