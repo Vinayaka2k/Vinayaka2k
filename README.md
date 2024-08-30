@@ -2,10 +2,10 @@
  I am Vinayaka Hegde**
 
 
-Grad Student in Computer Science and Engineering at Texas A&M. I am a Developer with my interests lying in Backend Development.
+I'm a grad Student in Computer Science and Engineering at Texas A&M. I am a Developer with my interests lying in Backend Development.
 
 - 👀 I’m interested in anything and everything related to technology and Computer Science. 
-- 🌱 I'm currently learning Software Engineering.
+- 🌱 I'm currently working on a project in Ruby on Rails.
 - 💞️ I’m looking forward to collaborate on any Open Source software that excites me. 
 - 📫 How to reach me :  You can reach out to me through mail: vinuvinayaka2000@gmail.com 
 <br />
