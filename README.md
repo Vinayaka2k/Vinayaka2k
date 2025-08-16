@@ -5,7 +5,7 @@
 I'm a grad Student in Computer Science and Engineering at Texas A&M. 
 
 - 👀 I’m interested in anything and everything related to technology and Computer Science. 
-- 🌱 I'm currently working on a project on Ruby on Rails.
+- 🌱 I'm currently working on a project on Spring Boot & React
 - 💞️ I’m looking forward to collaborate on any Open Source software that excites me. 
 - 📫 How to reach me :  You can reach out to me through mail: vinuvinayaka2000@gmail.com 
 <br />
