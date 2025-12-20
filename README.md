@@ -10,9 +10,6 @@ I'm a grad Student in Computer Science and Engineering at Texas A&M.
 - 📫 How to reach me :  You can reach out to me through mail: vinuvinayaka2000@gmail.com 
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Vinayaka2k)
-<br />
-![](https://komarev.com/ghpvc/?username=Vinayaka2k)
 
 <!---
 
