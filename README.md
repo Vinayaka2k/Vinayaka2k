@@ -25,7 +25,9 @@ Agentic triage tool for SREs - PagerDuty alerts in, actionable recommendations o
 ## Background
 
 AI Engineer @ TAMU (2025-26)
+
 PESU Venture Labs (2024)  
+
 LeadSquared (2022)
 
 ## Education
