@@ -24,7 +24,12 @@ Agentic triage tool for SREs - PagerDuty alerts in, actionable recommendations o
 
 ## Background
 
-AI Engineer @ TAMU (2025-26) - LeadSquared (2022) - PESU Venture Labs (2024)  
-MS CS, Texas A&M (3.83) - AWS Certified Developer (2025)
+AI Engineer @ TAMU (2025-26)
+PESU Venture Labs (2024)  
+LeadSquared (2022)
+
+## Education
+MS CS, Texas A&M (3.83)
+AWS Certified Developer (2025)
 
 [LinkedIn](https://linkedin.com/in/vinayaka2000) - [Email](mailto:vinuvinayaka2000@gmail.com)
