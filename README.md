@@ -30,6 +30,7 @@ LeadSquared (2022)
 
 ## Education
 MS CS, Texas A&M (3.83)
+
 AWS Certified Developer (2025)
 
 [LinkedIn](https://linkedin.com/in/vinayaka2000) - [Email](mailto:vinuvinayaka2000@gmail.com)
