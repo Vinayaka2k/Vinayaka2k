@@ -12,8 +12,8 @@ MSCS @ Texas A&M (2026) - Seeking AI Engineer roles at YC / SF startups.
 > PagerDuty alert in. Root cause + fix out. No human in the loop.
 
 - **50% MTTR reduction** on production incidents
-- **30% retrieval precision gain** - hybrid BM25 + KNN + RRF + Amazon Rerank v1
-- **15% API latency drop** - async FastAPI under concurrent prod load
+- **30% retrieval precision gain** -> hybrid BM25 + KNN + RRF + Amazon Rerank v1
+- **15% API latency drop** -> async FastAPI under concurrent prod load
 - Prompt injection mitigated via Bedrock Guardrails + contextual grounding
 
 `LangGraph` `AWS Bedrock` `OpenSearch` `Titan Embed v2` `FastAPI` `Docker`
@@ -22,8 +22,8 @@ MSCS @ Texas A&M (2026) - Seeking AI Engineer roles at YC / SF startups.
 
 ## DBaaS Backend - Cloud-Native Microservices
 
-- Flask orchestrator + Docker worker pool - 70% DB contention reduction, 3x async throughput
-- Docker SDK auto-scaling - 99%+ uptime, sub-100ms latency under peak load
+- Flask orchestrator + Docker worker pool -> 70% DB contention reduction, 3x async throughput
+- Docker SDK auto-scaling -> 99%+ uptime, sub-100ms latency under peak load
 
 `Python` `Docker` `RabbitMQ` `Flask`
 
@@ -31,8 +31,8 @@ MSCS @ Texas A&M (2026) - Seeking AI Engineer roles at YC / SF startups.
 
 ## Auth Platform - LeadSquared
 
-- Full auth lifecycle (8+ flows) - refresh token rotation eliminating replay attacks
-- Multi-tenant access control via Spring Security - zero cross-tenant data leakage
+- Full auth lifecycle (8+ flows) -> refresh token rotation eliminating replay attacks
+- Multi-tenant access control via Spring Security -> zero cross-tenant data leakage
 
 `Java` `Spring Boot` `PostgreSQL`
 
