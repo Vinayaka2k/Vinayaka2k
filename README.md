@@ -1,18 +1,20 @@
 # Vinayaka Hegde - AI Engineer
 
-Building production-grade agentic systems. LangGraph, RAG, AWS Bedrock.  
-MS CS @ Texas A&M - Actively seeking AI Engineer roles at YC / SF startups.
+2.5 years building production agentic systems - LangGraph, RAG, AWS Bedrock.  
+MSCS @ Texas A&M (2026) - Seeking AI Engineer roles at YC / SF startups.
+
+[LinkedIn](https://linkedin.com/in/vinayaka2000) · [Portfolio](https://vinhegde2000.vercel.app) · [Email](mailto:vinuvinayaka2000@gmail.com)
 
 ---
 
-## Incident Copilot - Agentic Triage for SREs
+## Incident Copilot - Agentic Incident Triage
 
-> PagerDuty alert in. Root cause + fix recommendation out. No human in the loop.
+> PagerDuty alert in. Root cause + fix out. No human in the loop.
 
 - **50% MTTR reduction** on production incidents
 - **30% retrieval precision gain** - hybrid BM25 + KNN + RRF + Amazon Rerank v1
-- **40% fewer hallucinations** - Bedrock Guardrails + contextual grounding
 - **15% API latency drop** - async FastAPI under concurrent prod load
+- Prompt injection mitigated via Bedrock Guardrails + contextual grounding
 
 `LangGraph` `AWS Bedrock` `OpenSearch` `Titan Embed v2` `FastAPI` `Docker`
 
@@ -20,13 +22,19 @@ MS CS @ Texas A&M - Actively seeking AI Engineer roles at YC / SF startups.
 
 ## DBaaS Backend - Cloud-Native Microservices
 
-Ride-sharing backend with request-volume auto-scaling from zero.
+- Flask orchestrator + Docker worker pool - 70% DB contention reduction, 3x async throughput
+- Docker SDK auto-scaling - 99%+ uptime, sub-100ms latency under peak load
 
-- Orchestrator + worker container pool via Docker SDK - scales on live traffic
-- RabbitMQ RPC for async read/write between services
-- Full containerization with Flask orchestrator managing dynamic worker fleet
+`Python` `Docker` `RabbitMQ` `Flask`
 
-`Python` `Docker` `RabbitMQ` `Flask` `REST APIs`
+---
+
+## Auth Platform - LeadSquared
+
+- Full auth lifecycle (8+ flows) - refresh token rotation eliminating replay attacks
+- Multi-tenant access control via Spring Security - zero cross-tenant data leakage
+
+`Java` `Spring Boot` `PostgreSQL`
 
 ---
 
@@ -34,10 +42,7 @@ Ride-sharing backend with request-volume auto-scaling from zero.
 
 | AI/ML | Backend | Cloud |
 |---|---|---|
-| LangGraph, RAG, LLMs | Python, FastAPI, Pydantic | AWS Bedrock, EC2, S3 |
-| OpenSearch (KNN, BM25) | PostgreSQL, MongoDB, DynamoDB | Docker, GitHub Actions, CI/CD |
+| LangGraph, RAG, AWS Bedrock | Python, FastAPI, Java | EC2, S3, Docker, GitHub Actions |
+| OpenSearch (KNN, BM25) | PostgreSQL, MongoDB, DynamoDB | CloudWatch, CI/CD |
 
----
-
-**AWS Certified Developer - Associate (2025)**  
-[LinkedIn](https://linkedin.com/in/vinayaka2000) - [Email](mailto:vinuvinayaka2000@gmail.com)
+**AWS Certified Developer - Associate (2025)**
