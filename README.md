@@ -7,7 +7,7 @@ MSCS @ Texas A&M (2026) - Seeking AI Engineer roles at YC / SF startups.
 
 ---
 
-## Incident Copilot - Agentic Incident Triage
+## Signalsly - Agentic Incident Triage
 
 > PagerDuty alert in. Root cause + fix out. No human in the loop.
 
