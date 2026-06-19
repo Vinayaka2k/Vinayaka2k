@@ -20,7 +20,7 @@ MSCS @ Texas A&M (2026) - Seeking AI Engineer roles at YC / SF startups.
 
 ---
 
-## DBaaS Backend - Cloud-Native Microservices 
+## DBaaS Backend - Cloud-Native Microservices (Verce)
 
 - Flask orchestrator + Docker worker pool -> 70% DB contention reduction, 3x async throughput
 - Docker SDK auto-scaling -> 99%+ uptime, sub-100ms latency under peak load
@@ -29,7 +29,7 @@ MSCS @ Texas A&M (2026) - Seeking AI Engineer roles at YC / SF startups.
 
 ---
 
-## Auth Platform  
+## Auth Platform  (Leadsquared)
 
 - Full auth lifecycle (8+ flows) -> refresh token rotation eliminating replay attacks
 - Multi-tenant access control via Spring Security -> zero cross-tenant data leakage
